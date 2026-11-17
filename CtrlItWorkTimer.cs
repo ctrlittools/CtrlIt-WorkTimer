@@ -114,7 +114,7 @@ namespace CtrlItWorkTimer
         public const string Name = "CtrlIt Work Timer";
         public const string Version = "1.0.0";
         public const string Author = "ctrlittools";
-        public const string Website = "https://github.com/ctrlittools/CtrlItWorkTimer";
+        public const string Website = "https://github.com/ctrlittools/CtrlIt-WorkTimer";
         public const string Donate = "https://ko-fi.com/ctrlittools";
     }
 
