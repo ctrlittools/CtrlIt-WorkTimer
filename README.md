@@ -4,6 +4,8 @@
 
 CtrlIt Work Timer is a small window that sits on top of everything else. Start it when you sit down, or let it start itself when you log in, and glance at it to see how long you've been at it.
 
+![CtrlIt Work Timer](docs/screenshot.png)
+
 ## Features
 
 - **Start, Stop and Reset** buttons and a large HH:MM:SS display.
